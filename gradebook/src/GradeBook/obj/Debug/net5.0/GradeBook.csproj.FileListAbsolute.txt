@@ -1,0 +1,16 @@
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.AssemblyReference.cache
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+E:\Meghaa-csharp-labs\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
